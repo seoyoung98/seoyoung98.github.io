@@ -1,6 +1,6 @@
 ---
-layout:   single
-title:Banana
+layout:   post
+title:  "Banana"
 date:     2021-03-25 22:36:00 +0900
 author:   seoyoung98
 ---
