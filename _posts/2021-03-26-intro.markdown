@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:  "Banana"
+subtitle: "banana is delicious"
 date:     2021-03-25 22:36:00 +0900
 author:   seoyoung98
 ---
